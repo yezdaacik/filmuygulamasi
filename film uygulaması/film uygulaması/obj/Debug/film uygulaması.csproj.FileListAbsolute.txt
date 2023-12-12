@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\film uygulaması\film uygulaması\bin\Debug\film uygulaması.exe.config
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\film uygulaması\film uygulaması\bin\Debug\film uygulaması.exe
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\film uygulaması\film uygulaması\bin\Debug\film uygulaması.pdb
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\film uygulaması\film uygulaması\obj\Debug\film uygulaması.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\film uygulaması\film uygulaması\obj\Debug\film uygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\film uygulaması\film uygulaması\obj\Debug\film_uygulaması.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\film uygulaması\film uygulaması\obj\Debug\film_uygulaması.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\film uygulaması\film uygulaması\obj\Debug\film uygulaması.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\film uygulaması\film uygulaması\obj\Debug\film uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\film uygulaması\film uygulaması\obj\Debug\film uygulaması.exe
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\film uygulaması\film uygulaması\obj\Debug\film uygulaması.pdb
